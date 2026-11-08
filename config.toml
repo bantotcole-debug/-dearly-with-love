@@ -1,0 +1,10 @@
+project_id = "dearly-with-love"
+
+[functions.submit-letter]
+verify_jwt = false
+
+[functions.react-heart]
+verify_jwt = false
+
+[functions.report-letter]
+verify_jwt = false
